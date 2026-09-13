@@ -1,6 +1,6 @@
 <p align="center"><img src="optenza-github-banner.png" alt="Optenza OS — Une consigne. Un travail coordonné." width="100%"></p>
 
-<h1 align="center">Fun1141 · Optenza</h1>
+<h1 align="center">Optenza</h1>
 <p align="center"><strong>35 profils métiers · 6 familles · Une coordination humaine</strong></p>
 <p align="center"><a href="https://optenza.ca">Site Optenza</a> · <a href="https://optenza.ca/optenza-os/">Explorer le produit</a> · <a href="https://optenza.ca/feuille-de-route/">Feuille de route</a> · <a href="https://optenza.ca/contact/">Contact</a></p>
 
